@@ -8,7 +8,6 @@
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 
-
 This is a collection of utility JavaScript functions copy/pasted and slightly modified from StackOverflow answers 😀
 
 This repo is used as the basis for an Egghead.io series I'm working on entitled: Contributing to an Open Source Project on GitHub
@@ -21,6 +20,8 @@ import {flatten, snakeToCamel} from 'stack-overflow-copy-paste'
 flatten([[1, 2,], 3]) // [1, 2, 3]
 snakeToCamel('snake-case-string') // 'snakeCaseString'
 ```
+
+# Try test
 
 ## LICENSE
 
